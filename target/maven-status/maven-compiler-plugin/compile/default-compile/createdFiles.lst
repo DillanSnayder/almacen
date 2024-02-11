@@ -1,3 +1,7 @@
-app\HelloApplication.class
+model\ParqueTematico.class
+model\Productos.class
 controller\HelloController.class
+model\Clientes.class
+model\Ventas.class
 module-info.class
+app\HelloApplication.class
